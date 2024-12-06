@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 534.25 245.42">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 15.09px;
+        stroke-width: .58px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-6 {
+        font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+        stroke: #231f20;
+      }
+
+      .cls-2 {
+        stroke-width: 1.07px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke-width: 1.06px;
+      }
+
+      .cls-4 {
+        stroke-width: 1.06px;
+      }
+
+      .cls-5 {
+        stroke-width: 1.03px;
+      }
+
+      .cls-15 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-6 {
+        font-size: 23.61px;
+        stroke-width: .43px;
+      }
+
+      .cls-16 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        stroke-width: 3.59px;
+      }
+
+      .cls-8 {
+        stroke-width: 3.7px;
+      }
+
+      .cls-9 {
+        stroke-width: 3.7px;
+      }
+
+      .cls-10 {
+        stroke-width: 3.71px;
+      }
+
+      .cls-11 {
+        stroke-width: 3.71px;
+      }
+
+      .cls-12 {
+        stroke-width: 3.57px;
+      }
+
+      .cls-13 {
+        stroke-width: 3.57px;
+      }
+
+      .cls-14 {
+        stroke-width: 3.68px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_1" data-name="Icon 1">
+    <g>
+      <rect class="cls-11" x="42.15" y="30.87" width="37.23" height="179.28"/>
+      <polygon class="cls-9" points="381.21 30.04 381.21 208.74 418.44 208.74 418.44 119.39 455.66 208.74 492.89 208.74 492.89 30.04 455.66 30.04 455.66 119.39 418.44 30.04 381.21 30.04"/>
+      <polygon class="cls-10" points="106.04 30.87 217.73 30.87 217.73 60.75 143.27 60.75 143.27 180.26 217.73 180.26 217.73 210.14 106.04 210.14 106.04 30.87"/>
+      <path class="cls-8" d="M244.55,31.16v178.69h111.69V31.16h-111.69ZM319.01,180.07h-37.23V60.94h37.23v119.13Z"/>
+      <line class="cls-13" x1=".37" y1="29.75" x2="533.88" y2="29.75"/>
+      <line class="cls-4" x1=".37" y1="62.08" x2="533.88" y2="62.08"/>
+      <line class="cls-7" x1="41.02" y1="242.08" x2="41.02" y2="1.08"/>
+      <line class="cls-7" x1="505.63" y1="242.08" x2="408.91" y2=".67"/>
+      <line class="cls-12" x1=".37" y1="212.15" x2="533.88" y2="212.15"/>
+      <line class="cls-5" x1="533.88" y1="56.29" x2="522.29" y2="67.88"/>
+      <line class="cls-5" x1="533.88" y1="172.75" x2="522.29" y2="184.34"/>
+      <line class="cls-14" x1="493.77" y1="210.59" x2="493.77" y2="1.08"/>
+      <line class="cls-2" x1="219.07" y1="242.08" x2="219.07" y2="1.08"/>
+      <line class="cls-3" x1=".37" y1="178.55" x2="533.88" y2="178.55"/>
+      <line class="cls-5" x1="11.96" y1="56.29" x2=".37" y2="67.88"/>
+      <line class="cls-5" x1="11.96" y1="172.94" x2=".37" y2="184.53"/>
+      <text class="cls-6" transform="translate(372.56 237.2)"><tspan x="0" y="0">建築事務所</tspan></text>
+      <text class="cls-1" transform="translate(46.18 23.41)"><tspan class="cls-17" x="0" y="0">ア</tspan><tspan class="cls-15" x="12.83" y="0">イ</tspan><tspan class="cls-16" x="26.55" y="0">コ</tspan><tspan class="cls-18" x="40.59" y="0">ン</tspan></text>
+      <line class="cls-5" x1="224.86" y1="1.08" x2="213.27" y2="12.68"/>
+    </g>
+  </g>
+</svg>
