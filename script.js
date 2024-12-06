@@ -27,6 +27,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     feedback.textContent = 'Form submitted successfully.';
 
     document.getElementById('contactForm').reset();
+
 });
 
 function validateEmail(email) {
