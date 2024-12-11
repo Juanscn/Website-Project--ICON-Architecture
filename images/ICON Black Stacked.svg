@@ -18,6 +18,7 @@
 
       .cls-1, .cls-13 {
         font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+      }
 
       .cls-2 {
         stroke-width: 1.91px;
