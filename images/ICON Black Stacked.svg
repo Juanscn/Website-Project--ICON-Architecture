@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 237.96 264.34">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 8.85px;
+        stroke-width: .34px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-13 {
+        font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+
+      .cls-2 {
+        stroke-width: 1.91px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.91px;
+      }
+
+      .cls-4 {
+        stroke-width: 1.95px;
+      }
+
+      .cls-5 {
+        stroke-width: 1.95px;
+      }
+
+      .cls-6 {
+        stroke: #231f20;
+        stroke-width: .6px;
+      }
+
+      .cls-7 {
+        stroke-width: 1.61px;
+      }
+
+      .cls-8 {
+        stroke-width: 1.61px;
+      }
+
+      .cls-9 {
+        stroke-width: 1.62px;
+      }
+
+      .cls-10 {
+        stroke-width: .54px;
+      }
+
+      .cls-11 {
+        stroke-width: .53px;
+      }
+
+      .cls-12 {
+        stroke-width: 2.03px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        font-size: 13.46px;
+        stroke-width: .24px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_1" data-name="Icon 1">
+    <g>
+      <rect class="cls-6" x=".3" y=".3" width="237.36" height="263.73"/>
+      <g>
+        <rect class="cls-3" x="33.54" y="28.85" width="19.19" height="92.41"/>
+        <polygon class="cls-5" points="150.4 137.61 150.4 233.56 169.59 233.56 169.59 185.58 188.78 233.56 207.97 233.56 207.97 137.61 188.78 137.61 188.78 185.58 169.59 137.61 150.4 137.61"/>
+        <polygon class="cls-2" points="73.07 28.85 130.64 28.85 130.64 44.26 92.26 44.26 92.26 105.87 130.64 105.87 130.64 121.27 73.07 121.27 73.07 28.85"/>
+        <path class="cls-4" d="M73.07,137.61v95.96h57.57v-95.96h-57.57ZM111.45,217.57h-19.19v-63.97h19.19v63.97Z"/>
+        <line class="cls-12" x1="13.78" y1="28.28" x2="224.88" y2="28.28"/>
+        <line class="cls-12" x1="13.78" y1="234.9" x2="224.88" y2="234.9"/>
+        <line class="cls-11" x1="73.92" y1="44.95" x2="225.4" y2="44.95"/>
+        <line class="cls-11" x1="73.44" y1="104.98" x2="225.4" y2="104.98"/>
+        <line class="cls-11" x1="14.29" y1="153.6" x2="116.25" y2="153.6"/>
+        <line class="cls-10" x1="14.29" y1="216.95" x2="120.17" y2="216.95"/>
+        <line class="cls-12" x1="32.44" y1="251.87" x2="32.44" y2="9.38"/>
+        <line class="cls-12" x1="207.88" y1="216.4" x2="207.88" y2="9.38"/>
+        <line class="cls-9" x1="215.19" y1="252.09" x2="169.56" y2="138.18"/>
+        <line class="cls-11" x1="72.37" y1="222.87" x2="72.37" y2="32.71"/>
+        <line class="cls-11" x1="131.34" y1="221.3" x2="131.34" y2="31.14"/>
+        <line class="cls-8" x1="14.29" y1="122.3" x2="225.4" y2="122.3"/>
+        <line class="cls-7" x1="14.29" y1="136.88" x2="225.4" y2="136.88"/>
+        <line class="cls-11" x1="225.4" y1="41.94" x2="219.42" y2="47.91"/>
+        <line class="cls-11" x1="225.4" y1="101.99" x2="219.42" y2="107.97"/>
+        <line class="cls-11" x1="20.27" y1="150.61" x2="14.29" y2="156.59"/>
+        <line class="cls-11" x1="20.27" y1="213.96" x2="14.29" y2="219.94"/>
+      </g>
+      <text class="cls-13" transform="translate(139.15 251.01)"><tspan x="0" y="0">建築事務所</tspan></text>
+      <text class="cls-1" transform="translate(35.64 24.02)"><tspan class="cls-16" x="0" y="0">ア</tspan><tspan class="cls-14" x="7.53" y="0">イ</tspan><tspan class="cls-15" x="15.58" y="0">コ</tspan><tspan class="cls-17" x="23.82" y="0">ン</tspan></text>
+    </g>
+  </g>
+</svg>

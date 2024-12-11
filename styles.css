@@ -4,9 +4,40 @@
     padding: 0;
 }
 
+#body {
+    font-size: 16px;
+}
+
 #navBar {
     background-color: #b3b2b3;
     color: black;
+    padding: 15px;
+}
+
+#home {
+    display: flex;
+    flex-direction: column;
+    color: #b3b2b3;
+    align-items: center;
+    font-size: 3.5rem;
+    gap: 20px;
+}
+
+#projects {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+#residential, #commercial {
+    justify-content: center;
+    align-items: center;
+}
+
+#mainLogo {
+    height: 80%;
+    width: 80%;
+    margin: 30px;
 }
 
 #projects, #contact {
