@@ -4,20 +4,43 @@
     padding: 0;
 }
 
-#body {
+body {
     font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #navBar {
     background-color: #b3b2b3;
     color: black;
     padding: 15px;
+    display: flex;
+    gap: 20px;
+    width: 100%; 
+    justify-content: flex-start; 
 }
 
+.navLink {
+    color: black;
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: color 0.3s ease;
+}
+
+.navLink:visited {
+    color: white; 
+}
+
+.navLink:hover {
+    color: gray; 
+}
+
+
 #mainLogo {
-    height: 80%;
+    height: auto;
     width: 80%;
-    margin: 30px;
+    margin: 30px auto;
 }
 
 #home {
@@ -25,14 +48,15 @@
     flex-direction: column;
     color: #b3b2b3;
     align-items: center;
-    font-size: 3.5rem;
+    font-size: 3rem;
     gap: 20px;
 }
 
 #projects {
     display: flex;
     justify-content: space-evenly;
-    margin: 30px 0; 
+    margin: 30px 0;
+    flex-wrap: wrap;
 }
 
 #projects p {
@@ -41,7 +65,7 @@
 
 #projects img {
     margin-top: 30px;
-    height: 95%;
+    height: auto;
     width: 95%;
 }
 
@@ -53,31 +77,34 @@
 
 #logoStacked {
     max-width: 300px;
-    max-height: 600px;
     width: 50%;
-    height: 50%;
-    margin-left: 20%;
-    margin-right: 12%;
+    margin: 20px auto;
 }
 
 #about {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 5%;
     color: #b3b2b3;
-    margin-bottom: 30px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+}
+
+#aboutTextAll {
+    max-width: 600px;
+    text-align: left;
 }
 
 #formImage {
     max-width: 180px;
-    max-height: 90px;
+    height: auto;
 }
 
 #contactForm {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 #projects, #contact {
@@ -91,4 +118,115 @@
     align-items: center;
     justify-content: center;
     margin: 30px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+/* Mobile */
+@media screen and (max-width: 320px) {
+    #navBar {
+        flex-direction: column;
+        padding: 5px;
+    }
+
+    #home {
+        font-size: 2rem;
+        padding: 10px;
+    }
+
+    #projects {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #about {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #logoStacked {
+        width: 80%;
+    }
+
+    #aboutTextAll {
+        max-width: 90%;
+    }
+
+    #footer {
+        font-size: 0.8rem;
+    }
+}
+
+/* Tablets */
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    #navBar {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 10px;
+    }
+
+    #home {
+        font-size: 2.5rem;
+    }
+
+    #projects {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    #about {
+        flex-wrap: wrap;
+    }
+
+    #aboutTextAll {
+        max-width: 80%;
+    }
+}
+
+/* Desktop */
+@media screen and (min-width: 769px) and (max-width: 1280px) {
+    #navBar {
+        justify-content: space-between;
+        padding: 15px;
+    }
+
+    #projects img {
+        width: 90%;
+    }
+
+    #about {
+        justify-content: space-between;
+    }
+
+    #logoStacked {
+        width: 40%;
+    }
+
+    #aboutTextAll {
+        max-width: 600px;
+    }
+}
+
+/* Regular Desktop */
+@media screen and (min-width: 1281px) {
+    #navBar {
+        justify-content: space-between;
+    }
+
+    #projects img {
+        width: 85%;
+    }
+
+    #about {
+        justify-content: center;
+        gap: 50px;
+    }
+
+    #logoStacked {
+        width: 30%;
+    }
+
+    #aboutTextAll {
+        max-width: 50%;
+    }
 }
